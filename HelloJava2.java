@@ -55,12 +55,13 @@ extension
 // 1 SECTION 1
 // Print String "Hello World"
 
-class HelloJava
+class HelloJava2
 {
   public static void main (String args[]) 
   {
     System.out.println("Hello World!");
-    System.out.println("I'm alive!");   //Displays the enclosed String on the Screen Console
+    System.out.println("I'm alive!");   //Displays the enclosed String on the Screen Console.
+    System.out.println("\"La la laa!\""); // Back slash >>\ Allows you to add "Quote marks" without them being read as a command.
   }
   
 }
